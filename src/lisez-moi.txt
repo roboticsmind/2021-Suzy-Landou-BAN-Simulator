@@ -1,0 +1,3 @@
+- Vous trouverez dans le dossier : projet_drowflow\Drawflow\docs
+
+le fichier index.html qui est une maquette montrant une partie de l'objectif a atteindre pour ce projet.
